@@ -22,7 +22,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            LinkedIn
+            Linked In
           </a>
           <a
             className="App-link"
