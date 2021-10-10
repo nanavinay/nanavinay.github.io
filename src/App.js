@@ -32,6 +32,14 @@ function App() {
           >
             GIT
           </a>
+          <a
+            className="App-link"
+            href={userData.html_url}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Facebook
+          </a>
         </div>
         <div className="logo-container">
           <img
